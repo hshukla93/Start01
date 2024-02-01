@@ -3,5 +3,4 @@ First file
 This is in revert.
 =======
 This is the first file created. First file
-This is in main
->>>>>>> origin
+
