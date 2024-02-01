@@ -1,2 +1,2 @@
-First file
+This is the first file created. First file
 This is in main
